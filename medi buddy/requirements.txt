@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-groq
+faiss-cpu
+PyMuPDF
+pdf2image
+pytesseract
+sentence-transformers
+python-dotenv
+tqdm
